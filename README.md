@@ -15,8 +15,10 @@ Jira Bug Reports: Report and track issues identified during testing >> https://w
 
 Test cases and Checklists: Exploring the interface, functionality, and logic of the application, focusing on the "Payment Method" and "Add Card" pop-ups, the logic behind the "Book" button, and the logic of the Vehicle Reservation feature.
 
+# Project Structure
 
-
+Task 1 - Create a Mind Map for the "Add Driver's License" feature. Analyze the requirements and designs of the "Add Driver's License" feature and present them graphically in the form of a mind map. 
+Files: Requirement_Driver's_license and MindMap_Sprint2
 
 
  
