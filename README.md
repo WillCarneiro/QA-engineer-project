@@ -17,8 +17,9 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
 
 # Project Structure
 
-* Task 1: Create a Mind Map for the "Add Driver's License" feature. Analyze the requirements and designs of the "Add Driver's License" feature and present them graphically in the form of a mind map. 
--> Files: Requirement_Driver_licence.pdf and MindMap_Sprint2.pdf
+* Task 1: Create a Mind Map for the "Add Driver's License" feature. Analyze the requirements and designs of the "Add Driver's License" feature and present them graphically in the form of a mind map.
+   
+> Files: Requirement_Driver_licence.pdf and MindMap_Sprint2.pdf
 
 
  
