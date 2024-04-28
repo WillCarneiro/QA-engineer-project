@@ -21,6 +21,7 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
   feature and present them graphically in the form of a mind map. The mind map is divided into interface and functionality.
 > Files: Requirement_Driver_licence.pdf and MindMap_Sprint2.pdf
 
+
 * Task 2: Create a flowchart to comprehend the calculation logic behind the cost and duration of the carsharing feature. The application provides information on the journey's cost and duration.
 > Files: calculationLogic_Requirements.pdf and Flowchart-Sprint2-Urban.Routes.drawio.pdf
 
