@@ -18,10 +18,13 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
 # Tasks
 
 * Task 1: Create a Mind Map for the "Add Driver's License" feature. Analyze the requirements and designs of the "Add Driver's License"
-  feature and present them graphically in the form of a mind map. The mind map is divided into interface and functionality. > Files: Requirement_Driver_licence.pdf and MindMap_Sprint2.pdf
+  feature and present them graphically in the form of a mind map. The mind map is divided into interface and functionality.
+  > Files: Requirement_Driver_licence.pdf and MindMap_Sprint2.pdf
 
 
-* Task 2: Create a flowchart to comprehend the calculation logic behind the cost and duration of the carsharing feature. The application provides information on the journey's cost and duration. > Files: calculationLogic_Requirements.pdf and Flowchart-Sprint2-Urban.Routes.drawio.pdf
+
+* Task 2: Create a flowchart to comprehend the calculation logic behind the cost and duration of the carsharing feature. The application provides information on the journey's cost and duration.
+  > Files: calculationLogic_Requirements.pdf and Flowchart-Sprint2-Urban.Routes.drawio.pdf
 
  
 
