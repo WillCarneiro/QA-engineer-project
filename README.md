@@ -19,12 +19,14 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
 
 * Task 1: Create a Mind Map for the "Add Driver's License" feature. Analyze the requirements and designs of the "Add Driver's License"
   feature and present them graphically in the form of a mind map. The mind map is divided into interface and functionality.
-  > Files in Task_1 folder
-
+  > Files nested in folder Task_1.
 
 
 * Task 2: Create a flowchart to comprehend the calculation logic behind the cost and duration of the carsharing feature. The application provides information on the journey's cost and duration.
-  > Files in Task_2 folder
+  > Files nested in folder Task_2.
+
+* Task 3: Defining Equivalence Classes and Boundary Values only for the "First Name" and "Last Name" Input Fields in the Driver Licence Form.
+  > Files nested in folder Task_3.
 
  
 
