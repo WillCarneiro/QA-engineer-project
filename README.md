@@ -11,19 +11,17 @@ Flowchart: Shows the behavior and interaction for costs and time of "carsharing"
 
 Equivalence Class and Boundary Tests: Explore different equivalence classes and boundaries to ensure complete and robust coverage.
 
-Jira Bug Reports: Report and track issues identified during testing >> https://willcarneiro.atlassian.net/jira/software/projects/BUG/issues/
+Jira Bug Reports: Report and track issues identified during testing: https://willcarneiro.atlassian.net/jira/software/projects/BUG/issues/
 
 Test cases and Checklists: Exploring the interface, functionality, and logic of the application, focusing on the "Payment Method" and "Add Card" pop-ups, the logic behind the "Book" button, and the logic of the Vehicle Reservation feature.
 
 # Tasks
 
 * Task 1: Create a Mind Map for the "Add Driver's License" feature. Analyze the requirements and designs of the "Add Driver's License"
-  feature and present them graphically in the form of a mind map. The mind map is divided into interface and functionality.
-> Files: Requirement_Driver_licence.pdf and MindMap_Sprint2.pdf
+  feature and present them graphically in the form of a mind map. The mind map is divided into interface and functionality. > Files: Requirement_Driver_licence.pdf and MindMap_Sprint2.pdf
 
 
-* Task 2: Create a flowchart to comprehend the calculation logic behind the cost and duration of the carsharing feature. The application provides information on the journey's cost and duration.
-> Files: calculationLogic_Requirements.pdf and Flowchart-Sprint2-Urban.Routes.drawio.pdf
+* Task 2: Create a flowchart to comprehend the calculation logic behind the cost and duration of the carsharing feature. The application provides information on the journey's cost and duration. > Files: calculationLogic_Requirements.pdf and Flowchart-Sprint2-Urban.Routes.drawio.pdf
 
  
 
