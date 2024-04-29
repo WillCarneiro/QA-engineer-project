@@ -16,6 +16,7 @@ Jira Bug Reports: Report and track issues identified during testing: https://wil
 Test cases and Checklists: Exploring the interface, functionality, and logic of the application, focusing on the "Payment Method" and "Add Card" pop-ups, the logic behind the "Book" button, and the logic of the Vehicle Reservation feature.
 
 # Tasks
+  ### Part 1
 
 * Task 1: Create a Mind Map for the "Add Driver Licence" feature. Analyze the requirements and designs of the "Add Driver Licence"
   feature and present them graphically in the form of a mind map. The mind map is divided into interface and functionality.
@@ -35,6 +36,20 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
   | Cost        | Time (T) of the trip * price per minute |
 
    > Files nested in folder Task_4.
+
+### Part 2
+
+* Task 5: Prepare the test documentation for the layout of the reservation form. Create a checklist for the "Reservation form" layout.
+  > Files nested in folder Task_5.
+
+_Note: The carsharing designs in Figma cannot be displayed due to copyright reasons._
+
+* Task 6: 
+  > Files nested in folder Task_6.
+
+
+
+
 
  
 
