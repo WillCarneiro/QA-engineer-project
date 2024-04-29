@@ -48,12 +48,14 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
 
 
 
-* Task 6: Create a checklist to assess the functionality of both the "Payment Method" and "Add Card" screens, utilizing partitioning of equivalence classes and analysis of boundary values. Include both positive and negative test cases. Could be tested only in one enviroment.
+* Task 6: Create a checklist to assess the functionality of both the "Payment Method" and "Add Card" screens, utilizing partitioning of equivalence classes and analysis of boundary values. Include both positive and negative test cases. It can be tested only in one enviroment.
   > Files nested in folder Task_6.
 
-* Task 7: Prepare test cases for the "Reserve" button including positive and negative tests. Refer to the "Reserve Button" section in the requirements.
+* Task 7: Prepare test cases for the "Reserve" button including positive and negative tests. Refer to the "Reserve Button" section in the requirements. It can be tested only in one enviroment.
   > Files nested in folder Task_7.
 
+* Task 8: Prepare test cases for renting a car function. Check the "Reserve Car" section in the requirements. It can be tested only in one enviroment.
+  > Files nested in folder Task_8.
 
 
 
