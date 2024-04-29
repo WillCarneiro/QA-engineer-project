@@ -47,7 +47,7 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
 
 _Note: The carsharing designs in Figma cannot be displayed due to copyright reasons._
 
-* Task 6: 
+* Task 6: Create a checklist to assess the functionality of both the "Payment Method" and "Add Card" screens, utilizing partitioning of equivalence classes and analysis of boundary values. Include both positive and negative test cases. Could be tested only in one enviroment.
   > Files nested in folder Task_6.
 
 
