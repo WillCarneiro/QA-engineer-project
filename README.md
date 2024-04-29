@@ -46,8 +46,6 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
   > Files nested in folder Task_5.<br>
   > _Note: The carsharing designs in Figma cannot be displayed due to copyright reasons._
 
-
-
 * Task 6: Create a checklist to assess the functionality of both the "Payment Method" and "Add Card" screens, utilizing partitioning of equivalence classes and analysis of boundary values. Include both positive and negative test cases. It can be tested only in one enviroment.
   > Files nested in folder Task_6.
 
@@ -56,6 +54,15 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
 
 * Task 8: Prepare test cases for renting a car function. Check the "Reserve Car" section in the requirements. It can be tested only in one enviroment.
   > Files nested in folder Task_8.
+
+### Final Part - Bug Reports
+> Enviroments: <br>
+   _Google Chrome, screen resolution 800x600_ <br>
+   _Firefox, screen resolution 1920x1080_
+
+* Task: Testing the Application and Writing Bug Reports. Test the carsharing feature using the checklists and test cases from previous tasks.
+* When conducting the tests, mark the results as APPROVED or REJECTED. If the test has a REJECTED status, write a bug report in Jira.
+  > Files nested in folder Task_7.
 
 
 
