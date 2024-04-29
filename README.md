@@ -62,7 +62,7 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
 
 * Task: Testing the Application and Writing Bug Reports. Test the carsharing feature using the checklists and test cases from previous tasks.
 * When conducting the tests, mark the results as APPROVED or REJECTED. If the test has a REJECTED status, write a bug report in Jira.
-  > Files nested in folder Task_7.
+  > File: bugReportsJira.html or link above in Project Summary
 
 
 
