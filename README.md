@@ -43,12 +43,16 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
    _Firefox, screen resolution 1920x1080_
 
 * Task 5: Prepare the test documentation for the layout of the reservation form. Create a checklist for the "Reservation form" layout.
-  > Files nested in folder Task_5.
+  > Files nested in folder Task_5.<br>
+  > _Note: The carsharing designs in Figma cannot be displayed due to copyright reasons._
 
-_Note: The carsharing designs in Figma cannot be displayed due to copyright reasons._
+
 
 * Task 6: Create a checklist to assess the functionality of both the "Payment Method" and "Add Card" screens, utilizing partitioning of equivalence classes and analysis of boundary values. Include both positive and negative test cases. Could be tested only in one enviroment.
   > Files nested in folder Task_6.
+
+* Task 7: Prepare test cases for the "Reserve" button including positive and negative tests. Refer to the "Reserve Button" section in the requirements.
+  > Files nested in folder Task_7.
 
 
 
