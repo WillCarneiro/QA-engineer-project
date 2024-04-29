@@ -38,6 +38,9 @@ Test cases and Checklists: Exploring the interface, functionality, and logic of 
    > Files nested in folder Task_4.
 
 ### Part 2
+> Enviroments: <br>
+   _Google Chrome, screen resolution 800x600_ <br>
+   _Firefox, screen resolution 1920x1080_
 
 * Task 5: Prepare the test documentation for the layout of the reservation form. Create a checklist for the "Reservation form" layout.
   > Files nested in folder Task_5.
